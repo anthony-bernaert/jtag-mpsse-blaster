@@ -2,7 +2,7 @@
 
 Device validDevices[] =
 {
-	{ .Type = FT_DEVICE_232H, .VID = 0x0403, .PID = 0x6014 } // Single RS232-HS - (FT232H)
+	{ .Type = FT_DEVICE_2232H, .VID = 0x0403, .PID = 0x6010 } // FT2232HL
 };
 
 #ifdef _WIN32
