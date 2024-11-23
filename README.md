@@ -1,3 +1,8 @@
+>[!IMPORTANT]
+>This is a fork from https://github.com/tow3rs/jtag-mpsse-blaster.
+>
+>This repository contains changes (and pre-built DLLs) to use Quartus Programmer directly with USB devices containing a FT2232HL chip, such as [my own FTDI JTAG programmer board](https://github.com/anthony-bernaert/ftdi-jtag-programmer).
+
 JTAG-MPSSE-Blaster  
 ==================  
 
